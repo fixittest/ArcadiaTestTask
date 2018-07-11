@@ -1,0 +1,17 @@
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\Coypu.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\Newtonsoft.Json.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\nunit.framework.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\TechTalk.SpecFlow.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\WebDriver.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\WebDriver.Support.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\Coypu.xml
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\Newtonsoft.Json.xml
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\nunit.framework.xml
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\WebDriver.xml
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\WebDriver.Support.xml
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\obj\Debug\ArcadiaQaTest.csprojResolveAssemblyReference.cache
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\ArcadiaQATest.dll.config
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\ArcadiaQATest.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\bin\Debug\ArcadiaQATest.pdb
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\obj\Debug\ArcadiaQATest.dll
+d:\Arcadia\ArcadiaTestTask\ArcadiaQATest\EMQARecruitmentTest\obj\Debug\ArcadiaQATest.pdb

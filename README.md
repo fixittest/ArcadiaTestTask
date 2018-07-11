@@ -4,6 +4,11 @@ Hello. Thanks for taking the time do our test. We have created blank projects wi
 
 Feel free to use any other packages you think will help demonstrate your test writing skills.
 
+You should approach this task in the same way that you would a real, production assignment. 
+
+Please submit your results as a link to github/bitbucket repo. 
+Please use commits to apply your changes in the same way, as you would do it in real-world situation.
+
 ---
 
 ## UI Test
